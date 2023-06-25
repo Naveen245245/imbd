@@ -1,0 +1,1 @@
+Method threw 'java.lang.StackOverflowError' exception. Cannot evaluate com.navi.imbd.dto.Platform$HibernateProxy$8yF5C8BA.toString()
